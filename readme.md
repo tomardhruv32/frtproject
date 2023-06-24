@@ -53,5 +53,7 @@ Assets (Directory)
 
 
 **Microsoft azure static web app Url:- https://yellow-river-04193ec10.3.azurestaticapps.net**
+
 **Github pages Url:- https://tomardhruv32.github.io/frtproject/**
-**Github storage account url:- https://frtstorage32.z13.web.core.windows.net/**
+
+**Azure storage account url:- https://frtstorage32.z13.web.core.windows.net/**
