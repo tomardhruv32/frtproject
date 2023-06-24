@@ -19,9 +19,9 @@ Azure Static Web Apps is a fully managed service that allows you to deploy and h
 
 
 
-**Azure CDN**
+**Azure Storage Accounts**
 
-Azure CDN is a content delivery network (CDN) service that delivers static content, such as images and JavaScript files, to users from the nearest point of presence (PoP). This can help to improve the performance of your website for users all over the world.
+An Azure storage account is a container that holds all of your Azure Storage data objects. These objects can include blobs, files, queues, and tables. An Azure storage account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS.
 
 #### Website Structure
 
@@ -43,8 +43,15 @@ Assets (Directory)
 5)Then i deployed it on static web app and on azure
  ![sdeployed](https://github.com/tomardhruv32/frtproject/assets/134826881/49192c20-abb8-43c4-a6a3-c368545453ba)
 
-6) And i finally setup Azure cdn service under storage
- ![azure cdn](https://github.com/tomardhruv32/frtproject/assets/134826881/83ce1fd0-7ded-4ebd-a8a4-41f7983419ac)
+6) And i uploaded the same site with help of azure storage account and container static website.
+   
+   ![storageaccount](https://github.com/tomardhruv32/frtproject/assets/134826881/1d009b44-ac14-4b0a-96e5-780c57ee2755)
+
+   ![static website](https://github.com/tomardhruv32/frtproject/assets/134826881/d166509f-0115-42aa-8893-2826fa30d43a)
+
+ ![container](https://github.com/tomardhruv32/frtproject/assets/134826881/24c30181-c743-4081-95b4-7e91b7f59a90)
+
 
 **Microsoft azure static web app Url:- https://yellow-river-04193ec10.3.azurestaticapps.net**
 **Github pages Url:- https://tomardhruv32.github.io/frtproject/**
+**Github storage account url:- https://frtstorage32.z13.web.core.windows.net/**
