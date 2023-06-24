@@ -16,13 +16,12 @@
 
 Azure Static Web Apps is a fully managed service that allows you to deploy and host static web apps on Azure. It is a serverless service, which means that you do not need to manage any servers or infrastructure. Azure Static Web Apps also provides global distribution, so your web app will be available to users all over the world.
 
-![Alt text](image.png)
+
 
 
 **Azure CDN**
 
 Azure CDN is a content delivery network (CDN) service that delivers static content, such as images and JavaScript files, to users from the nearest point of presence (PoP). This can help to improve the performance of your website for users all over the world.
-
 
 #### Website Structure
 
@@ -34,5 +33,18 @@ recipes.html
 aboutus.html
 Assets (Directory)
 
-**Microsoft azure Url:-**
-**Github pages Url:-**
+#### Steps
+
+1) First I created a basic website using Bootstrap
+3) Then i made it live on github pages
+4) Then i setup microsoft azure static web app resource and service
+   ![static web app](https://github.com/tomardhruv32/frtproject/assets/134826881/8a571783-06b3-4dfd-80fe-6fcbd35db20f)
+
+5)Then i deployed it on static web app and on azure
+ ![sdeployed](https://github.com/tomardhruv32/frtproject/assets/134826881/49192c20-abb8-43c4-a6a3-c368545453ba)
+
+6) And i finally setup Azure cdn service under storage
+ ![azure cdn](https://github.com/tomardhruv32/frtproject/assets/134826881/83ce1fd0-7ded-4ebd-a8a4-41f7983419ac)
+
+**Microsoft azure static web app Url:- https://yellow-river-04193ec10.3.azurestaticapps.net**
+**Github pages Url:- https://tomardhruv32.github.io/frtproject/**
